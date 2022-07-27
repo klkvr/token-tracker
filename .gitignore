@@ -1,0 +1,7 @@
+public/
+.idea
+pgadmin/*
+postgres/*
+redis-data/*
+.env
+docker-compose.override.yml
